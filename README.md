@@ -1,54 +1,40 @@
-<h1>Hi, I'm Sonia! <br/><a href="https://github.com/soniran635"> IT SME</a>, <a href="https://www.linkedin.com/in/soniarahman93/"> Project Management Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Hi, I'm Sonia Rahman 👋
+### Senior TPM | AI in SDLC & Platform Systems
 
-<h2>👨‍💻 My Projects:</h2>
+I bridge complex product architecture, high-scale distributed systems, and autonomous developer workflows. Specializing in **Specification-Driven Development (SDD)**, multi-agent delivery governance, and large-scale media platform quality.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## ⚡ Featured Open-Source AI Systems
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- **[SpecFlow: Agentic SDD Framework](https://github.com/soniran635/agentic-sdd-framework)**  
+  *Autonomous Specification-Driven Development engine. Translates PRDs into bounded Context Stores, atomic Component Cards, and automated Spec-Drift quality gates using local LLMs.*
+- **[AgentEval-Gate: AI Regression Suite](https://github.com/soniran635/agent-eval-gate)**  
+  *Automated model benchmarking harness using LLM-as-a-Judge and golden datasets to prevent AI quality regressions and enforce CI/CD release gating.*
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 💼 Enterprise Program Leadership Highlights
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com/in/soniarahman93/
+### **NBCUniversal (Peacock)** — *Senior Technical Program Manager*
+- **AI in SDLC & Specification-Driven Development:** Pioneered agentic engineering workflows across global streaming teams, establishing modular context store hierarchies, component-based delivery standards, and automated delivery governance.
+- **Video Playback & Platform Quality (QoE):** Managed backend technical deliverables and telemetry pipelines for video playback across millions of concurrent streaming clients.
+- **High-Profile Live Events:** Led cross-functional engineering deliverables for high-throughput live streaming, including technical program leadership for the Sports Emmy-nominated *NBA Experience on Peacock*.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **U.S. Bank (Wealth Management)** — *Technical Program / Project Manager*
+- **Advisor & Client Software Platforms:** Directed technical delivery for core internal wealth management customer applications, integrating complex financial workflows across advisory and portfolio services.
+- **Systems Integration & Compliance:** Governed cross-functional releases bridging legacy banking backends with modern client-facing applications under strict regulatory, security, and data integrity standards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Domain & Competencies
+
+- **AI & Developer Experience (DevEx):** Specification-Driven Development (SDD), Multi-Agent Orchestration, LLM-as-a-Judge Evals, Context Stores, Cursor, Ollama, LangGraph, Python, Prompt/Schema Governance.
+- **Platform & Streaming Systems:** Video player architecture (HLS/DASH), telemetry ingestion, QoE/QoS metric observability, client-side SDK buffering, CDN caching strategies.
+- **Technical Program Governance:** Cross-functional roadmap execution, technical debt remediation, dependency resolution, CI/CD automated gating, release engineering.
+
+---
+
+## 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/soniarahman93](https://www.linkedin.com/in/soniarahman93/)
+- **GitHub:** [github.com/soniran635](https://github.com/soniran635)
