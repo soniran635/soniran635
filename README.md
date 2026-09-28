@@ -5,13 +5,6 @@ I bridge complex product architecture, high-scale distributed systems, and auton
 
 ---
 
-# Hi, I'm Sonia Rahman 👋
-### Senior Technical Program Manager | AI Systems & Delivery Governance
-
-I bridge complex product architecture, high-scale distributed systems, and autonomous developer workflows. Specializing in **Specification-Driven Development (SDD)**, multi-agent delivery governance, quantitative AI evaluation, and large-scale media platform quality.
-
----
-
 ## ⚡ Featured Open-Source AI Systems & Delivery Toolkits
 
 ### 🤖 Autonomous AI & Agentic SDLC Systems
