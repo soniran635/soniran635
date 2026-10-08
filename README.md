@@ -44,7 +44,7 @@ I bridge complex product architecture, high-scale distributed platforms, and aut
 * **Platform Delivery Governance:** Governed technical delivery for financial asset and wealth management platforms, achieving a 32% improvement in software release quality and a 48% reduction in operational friction.
 * **Engineering Standards & Compliance:** Established sprint velocity benchmarks, conducted architectural reviews, and delivered Agile coaching across distributed engineering teams under strict banking compliance and data integrity standards.
 
-### **Comcast** — *Senior QA Automation Engineer* | *2017 – 2020*
+### **Comcast** — *Senior Automation Engineer - Xfinity* | *2017 – 2020*
 * **Automated Test Frameworks:** Built end-to-end regression automation pipelines for Xfinity streaming platforms, decreasing defect escape rates by 40%.
 * **Cross-Platform Device Reliability:** Enforced quality benchmarks, test coverage protocols, and API reliability standards across fragmented smart TV, console, and mobile device ecosystems.
 
