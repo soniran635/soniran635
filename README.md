@@ -1,7 +1,7 @@
-# Hi, I'm Sonia Rahman 👋
-### Senior TPM | AI in SDLC & Platform Systems
+# Hi, I'm Sonia Rahman, MBA, MSc, PMP 👋
+### Senior TPM | AI Systems & Platform Engineering
 
-I bridge complex product architecture, high-scale distributed systems, and autonomous developer workflows. Specializing in **Specification-Driven Development (SDD)**, multi-agent delivery governance, and large-scale media platform quality.
+I bridge complex product architecture, high-scale distributed platforms, and autonomous developer workflows. With **15+ years of technology and program leadership experience**, I specialize in **Specification-Driven Development (SDD)**, multi-agent delivery governance, quantitative AI evaluation, and large-scale media platform quality.
 
 ---
 
@@ -15,7 +15,9 @@ I bridge complex product architecture, high-scale distributed systems, and auton
 - **[GenAI-Adoption-Ops: Program Analytics & Custom Skill Toolkit](https://github.com/soniran635/genai-adoption-ops)**  
   *Enterprise adoption framework featuring A/B cohort experimentation (-44% cycle time reduction), studio retention funnels, and automated game engine budget governance.*
 
-### 🧭 Delivery Governance & Platform Infrastructure
+### 🧭 Delivery Governance, Architecture & Platform Infrastructure
+- **[AI-Program-OS: Enterprise AI Intake & ARB Governance](https://github.com/soniran635/ai-program-os)**  
+  *Enterprise AI program operating system featuring multi-tier risk classification (Tier 1 Critical to Tier 4 Low), automated Architecture Review Board (ARB) RFC generation, and cross-functional stage-gate governance.*
 - **[Delivery-Governance-Ops: Engineering Intelligence & Slip Detection](https://github.com/soniran635/delivery-governance-ops)**  
   *Technical delivery intelligence engine featuring quiet slip detection, flow metrics telemetry (P85 cycle times & flow efficiency), and unsoftened AI executive delivery briefs.*
 - **[StreamingTelemetry-MCP: Model Context Protocol Server](https://github.com/soniran635/streaming-telemetry-mcp)**  
@@ -25,25 +27,49 @@ I bridge complex product architecture, high-scale distributed systems, and auton
 
 ---
 
-## 💼 Enterprise Program Leadership Highlights
+## 💼 Full Professional Experience & Leadership History
 
-### **NBCUniversal (Peacock)** — *Senior Technical Program Manager*
-- **AI in SDLC & Specification-Driven Development:** Pioneered agentic engineering workflows across global streaming teams, establishing modular context store hierarchies, component-based delivery standards, and automated delivery governance.
-- **Zero-Disruption Developer Tooling Migration:** Led the organizational evaluation, transition, and adoption of developer AI platforms from Augment to Cursor with 0 failures, maintaining continuous 100% platform uptime.
-- **Video Playback & Platform Quality (QoE):** Managed backend technical deliverables and telemetry pipelines for video playback across millions of concurrent streaming clients.
-- **High-Profile Live Events:** Led cross-functional engineering deliverables for high-throughput live streaming, including technical program leadership for the Sports Emmy-nominated *NBA Experience on Peacock*.
+### **NBCUniversal (Peacock)** — *Senior Technical Project / Program Manager* | *2023 – Present*
+* **Enterprise AI Enablement & SDD:** Pioneered agentic engineering workflows across global streaming squads, establishing modular context store hierarchies, component-based delivery standards, and automated delivery governance.
+* **Developer Platform Migration:** Led the organizational evaluation, transition, and adoption of developer AI platforms from Augment to Cursor with 0 failures, maintaining continuous 100% platform uptime.
+* **2026 Sports Emmy® Nominated Interactive Leadership:** Served as primary technical program lead for marquee interactive streaming platform innovations, earning a **2026 Sports Emmy® Nomination** (*Outstanding Interactive Experience: Sports*) for *The NBA Experience on Peacock*.
+* **Video Playback & High-Concurrency Broadcasts:** Governed end-to-end technical deliverables and telemetry pipelines for video playback engines and SSAI ad insertion across millions of concurrent streaming clients during high-traffic global events (Olympics, NFL).
 
-### **U.S. Bank (Wealth Management)** — *Technical Program / Project Manager*
-- **Advisor & Client Software Platforms:** Directed technical delivery for core internal wealth management customer applications, integrating complex financial workflows across advisory and portfolio services.
-- **Systems Integration & Compliance:** Governed cross-functional releases bridging legacy banking backends with modern client-facing applications under strict regulatory, security, and data integrity standards.
+### **The Nu-Age Group** — *Technical Project Manager* | *2021 – 2023*
+* **Cloud & SaaS Modernization:** Led enterprise cloud infrastructure and SaaS modernization initiatives, implementing Agile frameworks and sprint ceremonies across multidisciplinary engineering squads.
+* **Telemetry & Automation:** Integrated BrightGauge and ConnectWise to establish automated resource allocation, real-time executive dashboards, and transparent KPI tracking.
+* **Organizational Change Adoption:** Directed organizational change adoption, technical training curricula, and roadmap prioritization to maximize team throughput and operational agility.
+
+### **U.S. Bank** — *Technical Lead – Wealth Management Platforms* | *2020 – 2021*
+* **Platform Delivery Governance:** Governed technical delivery for financial asset and wealth management platforms, achieving a 32% improvement in software release quality and a 48% reduction in operational friction.
+* **Engineering Standards & Compliance:** Established sprint velocity benchmarks, conducted architectural reviews, and delivered Agile coaching across distributed engineering teams under strict banking compliance and data integrity standards.
+
+### **Comcast** — *Senior QA Automation Engineer – Platform Reliability* | *2017 – 2020*
+* **Automated Test Frameworks:** Built end-to-end regression automation pipelines for Xfinity streaming platforms, decreasing defect escape rates by 40%.
+* **Cross-Platform Device Reliability:** Enforced quality benchmarks, test coverage protocols, and API reliability standards across fragmented smart TV, console, and mobile device ecosystems.
+
+### **Gategroup** — *Change Management Analyst – Operations & Process Optimization* | *2019*
+* Applied Lean principles to lead operational change management, optimizing productivity, process safety, and cross-functional workflow efficiency.
+
+### **Early Technology & Program Management Foundations** | *2011 – 2017*
+* Built foundational expertise across technical project coordination, software quality assurance, systems analysis, and enterprise IT service delivery, establishing **15+ cumulative years** in technology leadership.
+
+---
+
+## 🎓 Education & Advanced Credentials
+
+* **Master of Science (MS) in Project Management** — Northeastern University, USA
+* **Master of Business Administration (MBA) in Management Information Systems** — Coventry University, UK
+* **Bachelor of Business Administration (BBA)** — Independent University, Bangladesh
+* **Certifications:** PMP® | Advanced Scrum Master / Agile Certified | Six Sigma Green Belt | Chartered Management Institute (CMI) Level 7 | ISTQB® Certified Software Tester
 
 ---
 
 ## 🛠️ Technical Domain & Competencies
 
-- **AI & Developer Experience (DevEx):** Specification-Driven Development (SDD), Multi-Agent Orchestration, LLM-as-a-Judge Evals, Context Stores, Cursor, Ollama, LangGraph, Python, Prompt/Schema Governance.
-- **Delivery Governance & Flow Metrics:** Flow Efficiency, Cycle Time Distribution (P50/P85/P95), Quiet Slip Detection, Critical Path Mapping, WBR/MBR Executive Delivery Briefs, Agile/Scrum Leadership.
-- **Platform & Streaming Systems:** Video player architecture (HLS/DASH), telemetry ingestion, QoE/QoS metric observability, client-side SDK buffering, CDN caching strategies.
+* **AI & Developer Experience (DevEx):** Specification-Driven Development (SDD), Multi-Agent Orchestration, LLM-as-a-Judge Evals, Context Stores, Cursor, Ollama, LangGraph, Python, Prompt/Schema Governance.
+* **Delivery Governance & Flow Metrics:** Flow Efficiency, Cycle Time Distribution (P50/P85/P95), Quiet Slip Detection, Critical Path Mapping, WBR/MBR Executive Delivery Briefs, Agile/Scrum Leadership.
+* **Platform & Streaming Systems:** Video player architecture (HLS/DASH), telemetry ingestion, QoE/QoS metric observability, client-side SDK buffering, CDN caching strategies.
 
 ---
 
