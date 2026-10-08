@@ -60,7 +60,7 @@ I bridge complex product architecture, high-scale distributed platforms, and aut
 
 * **Master of Science (MS) in Project Management** — Northeastern University, USA
 * **Master of Business Administration (MBA) in Management Information Systems** — Coventry University, UK
-* **Bachelor of Business Administration (BBA)** — Independent University, Bangladesh
+* **Bachelor of Business Administration (BBA) in Information Systems** — Independent University, Bangladesh
 * **Certifications:** PMP® | Advanced Scrum Master / Agile Certified | Six Sigma Green Belt | Chartered Management Institute (CMI) Level 7 | ISTQB® Certified Software Tester
 
 ---
