@@ -10,6 +10,8 @@ I bridge complex product architecture, high-scale distributed platforms, and aut
 ### 🤖 Autonomous AI & Agentic SDLC Systems
 - **[SpecFlow: Agentic SDD Framework](https://github.com/soniran635/agentic-sdd-framework)**  
   *Autonomous Specification-Driven Development engine. Translates PRDs into bounded Context Stores, atomic Component Cards, and automated Spec-Drift quality gates using local LLMs.*
+- **[Token-Lean-SDD: Context Pruner & Pre-Flight Gate](https://github.com/soniran635/token-lean-sdd)**  
+  *Cost-efficient SDD pre-flight filtering engine. Prunes git diff context noise by 60%+ and gates pull request acceptance criteria locally using open-source models at $0 cost.*
 - **[AgentEval-Gate: AI Regression Suite](https://github.com/soniran635/agent-eval-gate)**  
   *Automated model benchmarking harness using LLM-as-a-Judge and golden datasets to prevent AI quality regressions and enforce CI/CD release gating.*
 - **[GenAI-Adoption-Ops: Program Analytics & Custom Skill Toolkit](https://github.com/soniran635/genai-adoption-ops)**  
