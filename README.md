@@ -26,6 +26,8 @@ I bridge complex product architecture, high-scale distributed platforms, and aut
   *Anthropic MCP server exposing HLS manifest inspection, SCTE-35 ad break validation, and playback QoE incident triage tools directly to AI coding agents.*
 - **[Agent-FinOps: Token Cost & Runaway Loop Governor](https://github.com/soniran635/agent-finops-governor)**  
   *Enterprise AI FinOps platform featuring real-time token spend tracking, P95 latency monitoring, and autonomous runaway loop circuit breakers.*
+- **[FinTech-Audit-Traceability: Regulatory & Code Governance](https://github.com/soniran635/fintech-audit-traceability)**  
+  *Audit-grade compliance governance engine for banking and payments software. Automates PCI-DSS v4.0, SOC2 Type II, and SOX 404 verification on code diffs and auto-generates audit-ready traceability matrices.*
 
 ---
 
