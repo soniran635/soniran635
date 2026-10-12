@@ -16,6 +16,8 @@ I bridge complex product architecture, high-scale distributed platforms, and aut
   *Automated model benchmarking harness using LLM-as-a-Judge and golden datasets to prevent AI quality regressions and enforce CI/CD release gating.*
 - **[GenAI-Adoption-Ops: Program Analytics & Custom Skill Toolkit](https://github.com/soniran635/genai-adoption-ops)**  
   *Enterprise adoption framework featuring A/B cohort experimentation (-44% cycle time reduction), studio retention funnels, and automated game engine budget governance.*
+  - **[PR-Slop-Buster: AI Code Bloat & Dependency Auditor](https://github.com/soniran635/pr-slop-buster)**  
+  *Autonomous code review assistant for Cursor, Claude Code, and Copilot. Strips AI-generated boilerplate, flags heavy dependency inflation, exposes shallow mock tests, and enforces clean architecture.*
 
 ### 🧭 Delivery Governance, Architecture & Platform Infrastructure
 - **[AI-Program-OS: Enterprise AI Intake & ARB Governance](https://github.com/soniran635/ai-program-os)**  
