@@ -45,6 +45,15 @@ Interactive tools, AI agent frameworks, and delivery governance runbooks built f
 
 ---
 
+### ☕ Support My Open-Source Work
+
+If any of my open-source tools, templates, or scripts saved your team time:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/soniran635)
+
+---
+---
+
 ## 💼 Full Professional Experience & Leadership History
 
 ### **NBCUniversal (Peacock)** — *Senior Technical Project / Program Manager* | *2023 – Present*
