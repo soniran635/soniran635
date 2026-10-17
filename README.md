@@ -31,6 +31,18 @@ I bridge complex product architecture, high-scale distributed platforms, and aut
 - **[FinTech-Audit-Traceability: Regulatory & Code Governance](https://github.com/soniran635/fintech-audit-traceability)**  
   *Audit-grade compliance governance engine for banking and payments software. Automates PCI-DSS v4.0, SOC2 Type II, and SOX 404 verification on code diffs and auto-generates audit-ready traceability matrices.*
 
+### 🛠️ Developer Utilities & Engineering Toolkits
+
+Interactive tools, AI agent frameworks, and delivery governance runbooks built for modern engineering teams:
+
+| Product | Type | License / Store |
+| :--- | :--- | :--- |
+| **Cosmic Sync** | Standup Icebreaker & Speaker Queue | [Get Commercial License](https://soniran4.gumroad.com/l/bnptnv) |
+| **Token-Lean SDD** | Cursor & Claude Context-Slimming Framework | [Get Commercial License](https://soniran4.gumroad.com/l/token-lean-sdd) |
+| **Agile Delivery & Ops** | Release Telemetry & Standup Automation Kit | [Get Commercial License](https://soniran4.gumroad.com/l/delivery-governance-ops) |
+
+👉 **Browse Full Digital Catalog:** [soniran4.gumroad.com](https://soniran4.gumroad.com)
+
 ---
 
 ## 💼 Full Professional Experience & Leadership History
